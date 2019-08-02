@@ -10,6 +10,9 @@ using Microsoft.Extensions.Logging;
 
 namespace WebApplication30
 {
+    /// <summary>
+    /// demo
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
